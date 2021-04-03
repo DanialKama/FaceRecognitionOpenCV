@@ -1,7 +1,7 @@
 Code/dataset/
 Code/recognizer/
 database.db
-Document/
+Document/*
 !Document/WorkReport.pdf
 
 # Byte-compiled / optimized / DLL files
